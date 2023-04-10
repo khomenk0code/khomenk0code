@@ -9,7 +9,7 @@ Some quick facts about me:
 
 * 🌏 I'm based in Lviv, Ukraine
 * 🖥️ If you're interested, my portfolio can be found...<a target="_blank" rel="noreferrer" href='https://github.com/khomenk0code/the_best_on'>here</a>
-* 🧠 I'm currently learning TypeScript and have already worked on one  <a target="_blank" rel="noreferrer" href='https://github.com/khomenk0code/khomenk0code.github.io'>project</a> using it.
+* 🧠 I'm currently learning TypeScript
 *  🚀  I'm currently working on <a target="_blank" rel="noreferrer" href='https://github.com/khomenk0code/the_best_on'>Internet provider site</a>
 * 🤝 I'm open to work as a frontend developer.
 * 📄 Here is a link to my <a target="_blank" rel="noreferrer" href='https://cv.djinni.co/88/a9e57007229eea90f47036b884c903/Khomenko_Anton.pdf'>cv</a>
