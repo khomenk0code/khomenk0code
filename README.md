@@ -2,17 +2,15 @@ Hi there! My name is Anton Khomenko.
 ========================================================================================================================================
 
 
-I'm currently learning Fullstack development, but my current focus is on Frontend development.
+I'm currently learning Fullstack development.
 --------------------------
 
 Some quick facts about me:
 
 * 🌏 I'm based in Lviv, Ukraine
 * 🖥️ If you're interested, my portfolio can be found...<a target="_blank" rel="noreferrer" href='https://khomenko-anton.vercel.app/'>here</a>
-* 🧠 I'm currently learning TypeScript
-*  🚀  I'm currently working on <a target="_blank" rel="noreferrer" href='https://github.com/khomenk0code/the_best_on'>Internet provider site</a>
-* 🤝 I'm open to work as a frontend developer.
-* 📄 Here is a link to my <a target="_blank" rel="noreferrer" href='https://khomenko-anton.vercel.app/cv'>cv</a>
+* 🤝 I'm open to work as a front-end / fullstack developer.
+* 📄 Here is a link to my <a target="_blank" rel="noreferrer" href='https://khomenko-anton.vercel.app/cv'> cv</a>
 
 ### Skills
 
