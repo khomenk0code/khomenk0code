@@ -12,7 +12,7 @@ Some quick facts about me:
 * 🧠 I'm currently learning TypeScript
 *  🚀  I'm currently working on <a target="_blank" rel="noreferrer" href='https://github.com/khomenk0code/the_best_on'>Internet provider site</a>
 * 🤝 I'm open to work as a frontend developer.
-* 📄 Here is a link to my <a target="_blank" rel="noreferrer" href='https://cv.djinni.co/40/3d88ec6debba1c6183bf2a3854ae99/Khomenko_Anton.pdf'>cv</a>
+* 📄 Here is a link to my <a target="_blank" rel="noreferrer" href='https://khomenko-anton.vercel.app/cv'>cv</a>
 
 ### Skills
 
