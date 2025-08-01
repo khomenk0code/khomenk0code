@@ -4,8 +4,6 @@ Web Developer
 --------------------------
 
 * 🌏 I'm based in Lviv, Ukraine
-* 🖥️ If you're interested, my portfolio can be found [here](https://khomenko-anton.vercel.app/)
-* 📄 Here is a link to my [CV](https://khomenko-anton.vercel.app/cv)
 
 ### Skills
 
